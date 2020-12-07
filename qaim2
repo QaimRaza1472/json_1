@@ -1,4 +1,4 @@
-[
+"student"=[
 {
 "title":"Qaim Raza",
 "txt":"Engineer"
@@ -9,5 +9,16 @@
 "txt":"Engineer"
 }
 
+]
 
+"teacher"=[
+{
+"title":"Abid Hussain",
+"txt":"Engineer"
+},
+
+{
+"title":"Tariq Baloach",
+"txt":"Engineer"
+}
 ]
