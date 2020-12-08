@@ -1,24 +1,26 @@
+{
 "student"=[
-{
-"title":"Qaim Raza",
-"txt":"Engineer"
-},
+          {
+          "title":"Qaim Raza",
+          "txt":"Engineer"
+          },
 
-{
-"title":"Asad Ali",
-"txt":"Engineer"
-}
+          {
+           "title":"Asad Ali",
+           "txt":"Engineer"
+           }
 
-],
+          ],
 
 "teacher"=[
-{
-"title":"Abid Hussain",
-"txt":"Engineer"
-},
+          {
+          "title":"Abid Hussain",
+          "txt":"Engineer"
+          },
 
-{
-"title":"Tariq Baloach",
-"txt":"Engineer"
+          {
+          "title":"Tariq Baloach",
+          "txt":"Engineer"
+          }
+          ]
 }
-]
